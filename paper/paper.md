@@ -10,6 +10,7 @@ authors:
     affiliation: 1
     role: Conceptualization, Writing - original draft
   - name: Naoya Oec
+    orcid: 0000-0002-7491-4994
     affiliation: 2
     role: System development, Validation
   - name: Haruka Tanimoto
