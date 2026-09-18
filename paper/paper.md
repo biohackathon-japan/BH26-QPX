@@ -24,7 +24,7 @@ authors:
   - name: Ryo Nozu
     orcid: 0000-0002-1099-3152
     affiliation: 1
-    role: Validation
+    role: Validation, Data creation
 affiliations:
   - name: Hiroshima University
     ror: 03t78wx29
