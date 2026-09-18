@@ -16,6 +16,7 @@ authors:
     affiliation: 1
     role: Data creation
   - name: Tomohiro Taguchi
+    orcid: 0009-0006-4779-4188
     affiliation: 1
     role: Data creation
   - name: Amane Kurata
