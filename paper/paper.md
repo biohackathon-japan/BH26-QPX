@@ -14,9 +14,11 @@ authors:
     affiliation: 2
     role: System development, Validation
   - name: Haruka Tanimoto
+    orcid: 0009-0000-9313-6318
     affiliation: 1
     role: Data creation
   - name: Tomohiro Taguchi
+    orcid: 0009-0006-4779-4188
     affiliation: 1
     role: Data creation
   - name: Amane Kurata
@@ -25,7 +27,7 @@ authors:
   - name: Ryo Nozu
     orcid: 0000-0002-1099-3152
     affiliation: 1
-    role: Validation
+    role: Validation, Data creation
 affiliations:
   - name: Hiroshima University
     ror: 03t78wx29
