@@ -69,11 +69,23 @@ Following domestic BioHackathon in Japan (BH26.6), we conducted several projects
 
 ## QPX in Practice 
 
+We created several annotated pathway diagrams and used them for biological pathway analysis (Table 1).
+  
+Table 1: New pathways created in BH26
+
+| Pathway | Species |  Note |
+| -------- | --------  | -------- |
+| Glycolysis and gluconeogenesis (`WP534`) | *Homo sapiens* | Integration of (meta-analysis of) transcriptomes and proteome data |
+| Pentose phosphate, etc | *Symplocarpus renifolius* | Integration of metabolome and transcriptome data |
+| Food Allergy–Associated Mast Cell Activation Pathway |  *Homo sapiens* | |
+| Mitochondrial complex I | *Arabidopsis thaliana*  <br /> *Oryza sativa* | |
+| Photosynthetic carbon reduction (`WP1461`) | *Arabidopsis thaliana* | |
+
 ### Transcriptome + Metabolome
 
-### Transcriptome + Proteome
+Differentially abundant proteins (DAPs) in hypoxic stress from proteome and Meta-analysis of public transcriptomes and hypoxic stress   
 
-## QPX AI
+### Transcriptome + Proteome
 
 ## Future work
 
