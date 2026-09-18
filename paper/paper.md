@@ -75,17 +75,24 @@ Table 1: New pathways created in BH26
 
 | Pathway | Species |  Note |
 | -------- | --------  | -------- |
-| Glycolysis and gluconeogenesis (`WP534`) | *Homo sapiens* | Integration of (meta-analysis of) transcriptomes and proteome data |
+| Glycolysis and gluconeogenesis (`WP534`) | *Homo sapiens* | Integration of (meta-analysis of) transcriptomes and proteome data  |
 | Pentose phosphate, etc | *Symplocarpus renifolius* | Integration of metabolome and transcriptome data |
 | Food Allergy–Associated Mast Cell Activation Pathway |  *Homo sapiens* | |
 | Mitochondrial complex I | *Arabidopsis thaliana*  <br /> *Oryza sativa* | |
 | Photosynthetic carbon reduction (`WP1461`) | *Arabidopsis thaliana* | |
 
-### Transcriptome + Metabolome
+### Integration of transcriptomes and proteome data
 
-Differentially abundant proteins (DAPs) in hypoxic stress from proteome and Meta-analysis of public transcriptomes and hypoxic stress   
+Use case for the integration of multiple omics data was investigated.
+Differentially abundant proteins (DAPs) in hypoxic stress from proteome and Meta-analysis of public transcriptomes and hypoxic stress were extracted from manuscripts below.
 
-### Transcriptome + Proteome
+1.  Transcriptome: hypoxic stress RNA-seq data (HN-score) collected in "Multi-Omic Meta-Analysis of Transcriptomes and the Bibliome Uncovers Novel Hypoxia-Inducible Genes. DOI: 10.3390/biomedicines9050582" [@ono_2021].
+2. Proteome: differentially abundant proteins (DAPs) flags in "Proteomic-Based Analysis of Hypoxia- and Physioxia-Responsive Proteins and Pathways in Diffuse Large B-Cell Lymphoma. DOI: 10.3390/cells10082025"
+
+
+### Integration of transcriptome and metabolome data
+
+A minimal set for reproducing the display of gene expression and metabolome data from the thermogenic tissues Hot_F / Hot_P of the Asian skunk cabbage (*Symplocarpus renifolius*) on pathway maps with QPX.
 
 ## Future work
 
