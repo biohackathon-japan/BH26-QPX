@@ -22,7 +22,7 @@ authors:
     affiliation: 1
     role: Data creation
   - name: Amane Kurata
-    orcid:0009-0001-2531-5506
+    orcid: 0009-0001-2531-5506
     affiliation: 1
     role: Data creation
   - name: Ryo Nozu
