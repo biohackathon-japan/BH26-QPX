@@ -84,7 +84,4 @@ We deeply thank organizers of BH26 at Matsuyama (13-19 September 2026) for givin
 
 # References
 
-```{=latex}
-\AtEndDocument{%
-```
 
