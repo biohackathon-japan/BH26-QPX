@@ -13,6 +13,7 @@ authors:
     affiliation: 2
     role: System development, Validation
   - name: Haruka Tanimoto
+    orcid: 0009-0000-9313-6318
     affiliation: 1
     role: Data creation
   - name: Tomohiro Taguchi
