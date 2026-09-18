@@ -61,8 +61,11 @@ At BH26, together with three new members from Hiroshima University (two undergra
 
 ## PathLift in use
 
-
+PathLift is a command line interface (CLI) tool that ‘lifts’ pathways in Graphical Pathway Markup Language (GPML) from WikiPathways by mapping them to gene IDs in other species, using an ortholog mapping table. 
+It outputs a GPML file in which the GeneProduct nodes from the source species (e.g. human) have been replaced and expanded to candidate gene nodes for the target species.
 Create new pathways for non-model organisms with public DB ID annotations
+
+Following domestic BioHackathon in Japan (BH26.6), we conducted several projects to generate pathway data for non-model organisms using PathLift.
 
 ## QPX in Practice 
 
