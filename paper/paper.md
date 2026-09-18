@@ -56,7 +56,11 @@ As part of the DBCLS BioHackathon 2026, we here report the development of pathwa
 
 # Results and Discussion
 
+Following BH23 [@BH23rep] and BH25 [@BH25rep], discussions continued at BH26 with the aim of enhancing the usability of QPX. 
+At BH26, together with three new members from Hiroshima University (two undergraduate students and one postdoctoral researcher), we worked on the following points toward the development of pathway data for non-model organisms.
+
 ## PathLift in use
+
 
 Create new pathways for non-model organisms with public DB ID annotations
 
@@ -76,7 +80,7 @@ Create new pathways for non-model organisms with public DB ID annotations
 
 We thank Dr. Egon Willighagen for the continuous support in curating pathways created and inclusion to WikiPathways. 
 We also thank Dr. Evan Bolton for pointing the useful resource in PubChem.
-We deeply thank organizers of BH26 at Matsuyama (13-19 September 2026) for giving us a chance to refine the QPX sysmte.
+We deeply thank organizers of BH26 at Matsuyama (13-19 September 2026) for giving us a chance to refine the QPX system.
 
 # References
 
