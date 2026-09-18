@@ -67,6 +67,10 @@ Create new pathways for non-model organisms with public DB ID annotations
 
 Following domestic BioHackathon in Japan (BH26.6), we conducted several projects to generate pathway data for non-model organisms using PathLift.
 
+As an example of cross-species pathway reuse, we used PathLift to map an *Arabidopsis thaliana* mitochondrial complex I pathway to *Oryza sativa* gene candidates (Fig. 1). The resulting GPML retains the pathway layout while displaying the corresponding rice gene IDs.
+
+**Figure 1. Arabidopsis-to-rice pathway liftover using PathLift.** The N module of mitochondrial complex I is shown before (left) and after (right) mapping to rice gene candidates.
+
 ## QPX in Practice 
 
 We created several annotated pathway diagrams and used them for biological pathway analysis (Table 1).
