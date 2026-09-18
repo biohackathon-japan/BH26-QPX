@@ -1,23 +1,35 @@
 ---
-title: 'DBCLS BioHackathon 2026 report: Template for the very long title'
-title_short: 'BioHackJP26: How we found breakfast'
+title: 'DBCLS BioHackathon 2026 report: QPX: Pathway analysis environment for non-model organisms'
+title_short: 'BioHackJP26: QPX'
 tags:
-  - Semantic web
-  - Ontologies
-  - Workflows
+  - Multi-omics
+  - Pathway analysis
 authors:
-  - name: First Author
+  - name: Hidemasa Bono
+    orcid: 0000-0003-4413-0651
     affiliation: 1
-    role: Writing – original draft
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+    role: Conceptualization, Writing - original draft
+  - name: Naoya Oec
     affiliation: 2
-    role: Conceptualization, Writing – review & editing
+    role: System development, Validation
+  - name: Haruka Tanimoto
+    affiliation: 1
+    role: Data creation
+  - name: Tomohiro Taguchi
+    affiliation: 1
+    role: Data creation
+  - name: Amane Kurata
+    affiliation: 1
+    role: Data creation
+  - name: Ryo Nozu
+    orcid: 0000-0002-1099-3152
+    affiliation: 1
+    role: Validation
 affiliations:
-  - name: First Affiliation
+  - name: Hiroshima University
+    ror: 03t78wx29
     index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
+  - name: Dogrun Inc.
     index: 2
 date: 18 September 2026
 cito-bibliography: paper.bib
@@ -30,13 +42,13 @@ group: QPX
 git_url: https://github.com/biohackathon-japan/BH26-QPX
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Bono H \emph{et al.}
 ---
 
 
 # Introduction
 
-As part of the DBCLS BioHackathon 2026, we here report...
+As part of the DBCLS BioHackathon 2026, we here report the development of pathway analysis environment called Quest for Pathways with eXpression (QPX) designed for non-model organisms.
 
 ## Meeting information
 
