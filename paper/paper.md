@@ -100,7 +100,7 @@ A minimal set for reproducing the display of gene expression and metabolome data
 
 ## Future work
 
-...
+A new methodology for constructing compound-centered functional networks was investigated by extracting relational data from PubChem Co-occurrence and enriching edge semantics with PubTator3 annotations.
 
 ## Acknowledgements
 
