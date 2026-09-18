@@ -77,7 +77,7 @@ As an example of cross-species pathway reuse, we used PathLift to map an *Arabid
 
 We created several annotated pathway diagrams and used them for biological pathway analysis (Table 1).
   
-Table 1: New pathways created in BH26
+Table 1: Newly created use cases in BH26
 
 | Pathway | Species |  Note |
 | -------- | --------  | -------- |
@@ -92,8 +92,8 @@ Table 1: New pathways created in BH26
 Use case for the integration of multiple omics data was investigated.
 Differentially abundant proteins (DAPs) in hypoxic stress from proteome and Meta-analysis of public transcriptomes and hypoxic stress were extracted from manuscripts below.
 
-1.  Transcriptome: hypoxic stress RNA-seq data (HN-score) collected in "Multi-Omic Meta-Analysis of Transcriptomes and the Bibliome Uncovers Novel Hypoxia-Inducible Genes. DOI: 10.3390/biomedicines9050582" [@ono_2021].
-2. Proteome: differentially abundant proteins (DAPs) flags in "Proteomic-Based Analysis of Hypoxia- and Physioxia-Responsive Proteins and Pathways in Diffuse Large B-Cell Lymphoma. DOI: 10.3390/cells10082025"
+1. Meta-analysis of public transcriptomes: hypoxic stress RNA-seq data (HN-score) collected in "Multi-Omic Meta-Analysis of Transcriptomes and the Bibliome Uncovers Novel Hypoxia-Inducible Genes [@ono_2021].
+2. Proteome: differentially abundant proteins (DAPs) flags in "Proteomic-Based Analysis of Hypoxia- and Physioxia-Responsive Proteins and Pathways in Diffuse Large B-Cell Lymphoma [@dus-szachniewicz_proteomic-based_2021].
 
 
 ### Integration of transcriptome and metabolome data
