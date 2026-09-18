@@ -8,15 +8,15 @@ authors:
   - name: Hidemasa Bono
     orcid: 0000-0003-4413-0651
     affiliation: 1
-    role: Conceptualization, Writing - original draft
+    role: Conceptualization, Writing - original draft, Writing – review & editing
   - name: Naoya Oec
     orcid: 0000-0002-7491-4994
     affiliation: 2
-    role: System development, Validation
+    role: System development, Validation, Writing – review & editing
   - name: Haruka Tanimoto
     orcid: 0009-0000-9313-6318
     affiliation: 1
-    role: Data creation
+    role: Data creation, Validation, Writing – review & editing
   - name: Tomohiro Taguchi
     orcid: 0009-0006-4779-4188
     affiliation: 1
@@ -28,7 +28,7 @@ authors:
   - name: Ryo Nozu
     orcid: 0000-0002-1099-3152
     affiliation: 1
-    role: Validation, Data creation
+    role: Validation, Data creation, Writing – review & editing
 affiliations:
   - name: Hiroshima University
     ror: 03t78wx29
