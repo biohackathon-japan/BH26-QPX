@@ -49,6 +49,9 @@ git_url: https://github.com/biohackathon-japan/BH26-QPX
 authors_short: Bono H \emph{et al.}
 ---
 
+# Abstract
+
+We report progress on Quest for Pathways with eXpression (QPX), a pathway analysis environment for non-model organisms, developed during the DBCLS BioHackathon 2026 (BH26). Building on prior BH23/BH25 work, we demonstrated PathLift, a tool that lifts WikiPathways GPML pathways to other species via ortholog mapping, using an Arabidopsis-to-rice mitochondrial complex I example. We also created annotated pathway maps in QPX integrating transcriptome/proteome data for hypoxic stress response, and transcriptome/metabolome data for the non-model organism Symplocarpus renifolius, which lacks an established gene ID system. This clarified data-formatting requirements for linking QPX maps to expression tables and surfaced a string-identifier handling issue in QPX's backend, reported upstream. Future work includes reproducible ChEBI ID assignment, automated pathway digitization, and compound-centered functional networks from PubChem/PubTator3 data.
 
 # Introduction
 
